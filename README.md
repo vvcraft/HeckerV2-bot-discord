@@ -3,6 +3,6 @@ simple discord bot
 java JDA API
 
 commands:
--ping
--clear
--pingip
+ping,
+clear,
+pingip
