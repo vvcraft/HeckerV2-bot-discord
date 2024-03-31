@@ -1,6 +1,6 @@
 # HeckerV2-bot-discord
-discord bot 
-java JDA
+simple discord bot 
+java JDA API
 
 commands:
 -ping
